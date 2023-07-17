@@ -2,5 +2,5 @@
 - I have a passion for undertaking projects across various fields.
 - With a strong hobby background and studying in IT, I consider myself a power user and possess a deep understanding of the subject.
 - I particularly enjoy making different projects, exploring new ideas, testing and developing them.
-- While I wouldn't label myself as a "programmer," I have a solid understanding of website development using HTML and CSS, as well as scripting with LUA.
+- While I wouldn't label myself as a "programmer", I have a solid understanding of website development using HTML and CSS, as well as scripting with LUA.
 - You can reach me via GitHub.
